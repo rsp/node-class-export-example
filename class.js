@@ -1,4 +1,4 @@
 'use strict';
 class MyClass {
 }
-module.exports = MyClass;
+export default MyClass;
