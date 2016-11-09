@@ -1,6 +1,6 @@
 # node-class-export-example
 
-An example for Stack Overflow answer:
+Tests for Stack Overflow answer:
 
 * [How can I export a class in node?](https://stackoverflow.com/questions/40515954/how-can-i-export-a-class-in-node/40516570#40516570)
 
