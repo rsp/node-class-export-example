@@ -28,7 +28,7 @@ An example for Stack Overflow answer:
 [travis-original-code-img]: https://api.travis-ci.org/rsp/node-class-export-example.svg?branch=original-code
 [travis-original-code-img]: https://api.travis-ci.org/rsp/node-class-export-example.svg?branch=original-code
 [travis-export-default-myclass-img]: https://api.travis-ci.org/rsp/node-class-export-example.svg?branch=export-default-myclass
-[travis-module-exports-myclass-img]: https://api.travis-ci.org/rsp/node-class-export-example.svg?module-exports-myclass
+[travis-module-exports-myclass-img]: https://api.travis-ci.org/rsp/node-class-export-example.svg?branch=module-exports-myclass
 [travis-branches-url]: https://travis-ci.org/rsp/node-class-export-example/branches
 [branch-module-exports-myclass-url]: https://github.com/rsp/node-class-export-example/tree/module-exports-myclass
 [branch-export-default-myclass-url]: https://github.com/rsp/node-class-export-example/tree/export-default-myclass
@@ -45,17 +45,6 @@ console.log('OK');
 
 class.js
 =
-Original code
--
-class.js:
-```js
-'use strict';
-class MyClass {
-}
-module.exports = MyClass;
-```
-Tests: [![Build status][travis-original-code-img]][travis-branches-url]
-
 original-code
 -
 Branch: [original-code][branch-original-code-url]
